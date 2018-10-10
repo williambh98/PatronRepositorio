@@ -8,11 +8,11 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace PatronRepositorio
+namespace PatronRepositorio.UI
 {
-    public partial class Form1 : Form
+    public partial class RegistrosCuentas : Form
     {
-        public Form1()
+        public RegistrosCuentas()
         {
             InitializeComponent();
         }
